@@ -1,0 +1,15 @@
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\Paint Calculator.csproj.AssemblyReference.cache
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\Paint Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\Paint Calculator.AssemblyInfoInputs.cache
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\Paint Calculator.AssemblyInfo.cs
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\Paint Calculator.csproj.CoreCompileInputs.cache
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\bin\Debug\net6.0\Paint Calculator.exe
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\bin\Debug\net6.0\Paint Calculator.deps.json
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\bin\Debug\net6.0\Paint Calculator.runtimeconfig.json
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\bin\Debug\net6.0\Paint Calculator.dll
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\bin\Debug\net6.0\Paint Calculator.pdb
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\Paint Calculator.dll
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\refint\Paint Calculator.dll
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\Paint Calculator.pdb
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\Paint Calculator.genruntimeconfig.cache
+C:\Users\pranc\Dropbox\_Employment\_The Software Institute 17-04-2023\C# Projects\Paint Calculator\obj\Debug\net6.0\ref\Paint Calculator.dll
